@@ -1,0 +1,1 @@
+from .report_campaign_daily import ReportCampaignDailyViewSet
